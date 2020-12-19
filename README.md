@@ -4,7 +4,7 @@
 <h1>Welcome to Air Class</h1>
 <h3>Where learning is fun</h3>
 
-<img src="assets/Aliferous.jpeg" >
+<img src="https://github.com/uditanshu23/AirClass/blob/main/Assets/Aliferous.jpeg" >
 <p>
 Ever thought how a class in the future would look like ?? Air Class helps you get a glimpse of that !! 
 
@@ -85,7 +85,7 @@ Augmented reality is an interactive experience of a real-world environment where
 <!--    PS. Android's apk file has been attached  -->
 <h2>Example of 3D models used</h2>
 <hr>
-<img src="assets/collage.jpg" >
+<img src="https://github.com/uditanshu23/AirClass/blob/main/Assets/collage.jpg" >
 
 <h2>How to Run the Project</h2>
 <p>
