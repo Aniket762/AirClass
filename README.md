@@ -12,6 +12,11 @@ Air Class is an AR based application in which instructors assist you in fitness,
 
 A famous proverb goes 'All work and no play makes Jack a dull boy'... we take this very seriously by intergrating a recreational game which can be only unlocked after completing a minimum amount of course or by finish a quiz.
 With out software we make sure 'LEARNING IS FUN'..
+
+The quiz lets the student test their learning
+<a href="https://aniket762.github.io/automatic-happiness/">Quiz</a>
+so that learning doesn't become too boring we came up with the puzzle application
+<a href="https://sumana2001.github.io/aliferous-puzzle/index.html">Puzzle</a>
 </p>
 
 
@@ -19,6 +24,8 @@ With out software we make sure 'LEARNING IS FUN'..
 <p>Air Class, your virtual instructor and companion is here to provide assistance in academics as well as martial arts for you, with the luxury of staying indoors.
 It uses the technology of Augmented Reality.
 Augmented reality is an interactive experience of a real-world environment where the objects that exist in the real world are enhanced by computer-generated perceptual information.</p>
+
+
 
 <p>Checkout the video <a href="#">here</a>.</p>
 
