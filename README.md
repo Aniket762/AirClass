@@ -1,11 +1,10 @@
 # Hack Battle 2k20
-# AirClass
 
+![](https://i.imgur.com/mOZpPGs.gif)
 <h1>Welcome to Air Class</h1>
 <h3>Where learning is fun</h3>
-
-<img src="https://github.com/uditanshu23/AirClass/blob/main/Assets/Aliferous.jpeg" >
 <p>
+ 
 Ever thought how a class in the future would look like ?? Air Class helps you get a glimpse of that !! 
 
 Air Class is an AR based application in which instructors assist you in fitness, self-defense and major subjects of science. With AR and 3d as the next bloom in education our software focuses on the same . With our software any person can learn topics starting from working of heart to martials arts with the power of AR and the comfort of home.
