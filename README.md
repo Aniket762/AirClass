@@ -111,11 +111,4 @@ Augmented reality is an interactive experience of a real-world environment where
 <li>Tieups with corporate to inculcate AR based meetings for more immerrsive graphical based presentations.</li>
 </ul>
 
-<h2>Team Members</h2>
-<ul>
-<li>Aniket Pal</li>
-<li>Sumana Basu</li>
-<li>Sayantan Chatterjee</li>
-<li>Uditanshu Satpathy</li>
-<li>Sayna Parida</li>
-</ul>
+
