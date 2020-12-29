@@ -88,11 +88,6 @@ Augmented reality is an interactive experience of a real-world environment where
 </p>
 
 
-<!--    PS. Android's apk file has been attached  -->
-<h2>Example of 3D models used</h2>
-<hr>
-<img src="https://github.com/uditanshu23/AirClass/blob/main/Assets/collage.jpg" >
-
 <h2>How to Run the Project</h2>
 <p>
 <ul>
